@@ -51,6 +51,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubhambhagwat-analyst&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=shubhambhagwat-analyst&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
